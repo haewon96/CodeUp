@@ -2,4 +2,4 @@
 x = str(input())
 print(x)
 
-# x = input()
+# input() : 한 줄의 문자열 데이터 입력
