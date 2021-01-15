@@ -8,4 +8,3 @@ print(int(round(f - round(f), 6) * 1e6))
 integer, real = map(int, input().split('.'))
 print(integer)
 print(real)
-
